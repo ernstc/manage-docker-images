@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "images": [
+        "mcr.microsoft.com/mssql/server:2022-latest",
+        "nginx",
+        "daprio/dapr:1.14.1",
+        "daprio/dapr:latest"
+    ]    
+}
